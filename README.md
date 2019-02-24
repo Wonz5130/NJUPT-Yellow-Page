@@ -13,11 +13,9 @@
 
   南京邮电大学官网。
 
-*  邮箱：http://mail.njupt.edu.cn/
+* 邮箱：http://mail.njupt.edu.cn/
 
   账号是学号，例如：B16010101。南邮邮箱可以免费使用 `MATLAB` ， `GitHub` 开发包等资源。
-
-
 
 * 图书馆：http://lib.njupt.edu.cn/
 
