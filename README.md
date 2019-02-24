@@ -13,9 +13,13 @@
 
   南京邮电大学官网。
 
+* 校园网登录验证平台（Dr.Com）：http://192.168.168.168/
+  
+  校园网限制最多两台设备同时登录。学生账号价格为0.2元/小时，每周日至周四 `23点` 断网。教职工账号免费使用，全年不断网。
+
 * 邮箱：http://mail.njupt.edu.cn/
 
-  账号是学号，例如：B16010101。南邮邮箱可以免费使用 `MATLAB` ， `GitHub` 开发包等资源。
+  账号是学号，例如：B16010101, 初始密码为 `b+身份证后8位` ，例如b00000000。使用南邮邮箱注册后，可以免费使用 `MATLAB` , `GitHub Pro` , `JetBrains` 等资源，国内各大平台针对学生邮箱认证用户也有不同程度的优惠活动。
 
 * 图书馆：http://lib.njupt.edu.cn/
 
@@ -23,13 +27,25 @@
 
   学校还购买了种类很丰富的[数据库](http://lib.njupt.edu.cn/1386/list.htm)，在校内都可以免费使用。
 
-* 正方教务：http://202.119.225.34/
+* 正方教务：http://202.119.225.34/ Or http://jwxt.njupt.edu.cn
 
   用于选课、查成绩、教学评价等。
 
 * 教务处：http://jwc.njupt.edu.cn/
 
-  查看各种比赛、考试时间安排等通知（第一时间，辅导员发通知一般都有延迟）。
+  查看各种比赛、考试时间安排等通知（第一时间，辅导员发通知一般都有延迟）。推荐使用 `RSSHub` 所提供的 [API 接口](https://docs.rsshub.app/#%E5%8D%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6)搭配 `Telegram` 软件中的 `RSS Bot` (@RustRssBot) 进行订阅。
+
+* SSL VPN 系统: https://218.2.103.165/por/login_psw.csp
+
+  内网 VPN 服务。**注意：**此系统仅向研究生及教职工开放使用。
+
+* 图书馆研读室预约系统：http://10.20.232.19/ClientWeb/xcus/ic2/Default.aspx
+
+  **注意：**此系统仅向研究生及教职工开放使用。
+
+* 校园网用户自助服务系统 http://10.10.244.244:8089/Self/nav_login
+
+  自助查询个人资料、充值缴费、上网详单、扣费账单、业务办理等记录。xian
 
 * 教学机构：http://www.njupt.edu.cn/29/list.htm
 
@@ -61,19 +77,33 @@
 
 * 校车时刻表：http://www.njupt.edu.cn/147/list.htm
 
-  南邮校车的时刻表。
+  南邮校车的时刻表。校车乘坐2元一次，刷卡付费。
+  
+  去往通达校区的校车时刻表可以在 http://www.nytdc.edu.cn/index.php?m=content&c=index&a=lists&catid=268 查到。（学生如欲乘坐需要联系老师开出证明）
+
+* 早锻炼查询系统：http://zccx.tyb.njupt.edu.cn/
+  
+  查询跑操次数，也可以在 `小程序` 内查询。
+
+* 体质管理系统：http://180.209.98.44/sign/signin
+
+  查询体测成绩，也可以在 `小程序` 内查询。
+
+* 自主个性化学分查询系统：http://202.119.225.55/zzxff/HomePage.aspx
+
+  查询自主个性化学分，也可以在 `小程序` 内查询。
 
 ### 二、软件类网站
 
 * 正版软件：http://software.njupt.edu.cn/
 
-  微软正版软件、MATLAB 2017、MATLAB 2018。
+  连接内网后免费下载微软正版软件、MATLAB 2017、MATLAB 2018。
 
 * 开源软件镜像：http://mirrors.njupt.edu.cn/
 
   提供很多**开源软件的镜像服务**。Linux 系统的安装镜像也可以在这里下载。
 
-* NOJ：http://acm.njupt.edu.cn/（旧版）http://10.166.31.25/（新版）
+* NOJ：http://acm.njupt.edu.cn/ （旧版） http://10.166.31.25/ （新版）
 
   ACM 训练系统。
 
@@ -91,7 +121,7 @@
 
 * NJUPT-API：https://github.com/gaoliang/NJUPT-API
 
-  南京邮电大学 (NJUPT) 教务系统、奥兰、校园卡、图书馆系统的非官方 Python API。
+  南京邮电大学 (NJUPT) 教务系统、奥兰、校园卡、图书馆系统的非官方 Python API。在小程序停止服务时没准儿可以利用终端进行缴费、充值。
 
 * 南邮历年考试资料：https://github.com/NJUPTFreeExams
 
@@ -101,6 +131,10 @@
 
   Official repository of NJUPT CTF 2018
 
+* 校园卡管理平台：http://xykapp.njupt.edu.cn
+
+  学校外包出去的校园卡管理平台，可以查询商户流水等信息，Bug 很多，请谨慎使用。有彩蛋，请自行探索。**如有侵权，本人不承担任何责任。**
+
 ### 三、手机 APP
 
 * M 南邮
@@ -108,4 +142,4 @@
 
 ### 四、其他
 
-* 翼支付可以给校园卡充值，很方便（当小程序进行维护的时候）。
+* 翼支付可以给校园卡充值，很方便（当小程序进行维护的时候）**（可以使用信用卡）**。
