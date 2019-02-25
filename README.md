@@ -1,5 +1,5 @@
-# Awesome-NJUPT-Resources
-## 南京邮电大学资源汇总
+# NJUPT-Yellow-Pages
+## 南京邮电大学黄页
 
 ### 写在前面
 
@@ -19,7 +19,7 @@
 
 * 邮箱：http://mail.njupt.edu.cn/
 
-  账号是学号，例如：B16010101, 初始密码为 `b+身份证后8位` ，例如b00000000。使用南邮邮箱注册后，可以免费使用 `MATLAB` , `GitHub Pro` , `JetBrains` 等资源，国内各大平台针对学生邮箱认证用户也有不同程度的优惠活动。
+  账号是学号，例如：B16010101, 每一届的邮箱密码都是不一样的，具体的密码如果忘记了还是得问辅导员（感谢 `UZIhuhuhu` 同学提醒）。使用南邮邮箱注册后，可以免费使用 `MATLAB` , `GitHub Pro` , `JetBrains` 等资源，国内各大平台针对学生邮箱认证用户也有不同程度的优惠活动。
 
 * 图书馆：http://lib.njupt.edu.cn/
 
@@ -115,6 +115,10 @@
 
   南京邮电大学小程序 Wepy 版本。
 
+* 南邮小程序体验反馈群：330843906
+
+  使用小程序如有问题，可加入此群咨询相关技术人员。
+
 * 青柚工作室主页：https://qingyou.njupt.edu.cn/
 
   由一群热爱技术的南邮学生们创建。
@@ -147,3 +151,7 @@
 ### 四、其他
 
 * 翼支付可以给校园卡充值，很方便（当小程序进行维护的时候）**（可以使用信用卡）**。
+
+### License
+
+[MIT](https://github.com/Wonz5130/NJUPT-Yellow-Pages/blob/master/LICENSE)
