@@ -107,7 +107,7 @@
 
   提供很多**开源软件的镜像服务**。Linux 系统的安装镜像也可以在这里下载。
 
-* NOJ：http://acm.njupt.edu.cn/ （旧版） http://10.166.31.25/ （新版，注：经校队核心成员 [ZsgsDesign](https://github.com/ZsgsDesign) 提醒，新版还在开发中，不是很稳定，且需要权限，不推荐使用。）https://icpc.njupt.edu.cn（未来稳定的新版本训练系统会部署到这里）
+* NOJ：http://acm.njupt.edu.cn/ （旧版） http://10.166.31.25/ （新版，注：经校队核心成员 [ZsgsDesign](https://github.com/ZsgsDesign) 提醒，新版还在开发中，不是很稳定，且需要权限，不推荐使用。）https://icpc.njupt.edu.cn （未来稳定的新版本训练系统会部署到这里）
 
   ACM 训练系统。
 
