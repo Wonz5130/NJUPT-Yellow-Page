@@ -107,9 +107,13 @@
 
   提供很多**开源软件的镜像服务**。Linux 系统的安装镜像也可以在这里下载。
 
-* NOJ：http://acm.njupt.edu.cn/ （旧版） http://10.166.31.25/ （新版）
+* NOJ：http://acm.njupt.edu.cn/ （旧版） http://10.166.31.25/ （新版，注：经校队核心成员 [ZsgsDesign](https://github.com/ZsgsDesign) 提醒，新版还在开发中，不是很稳定，且需要权限，不推荐使用。）https://icpc.njupt.edu.cn（未来稳定的新版本训练系统会部署到这里）
 
   ACM 训练系统。
+
+* NOJ 开源代码：https://github.com/ZsgsDesign/NOJ
+
+  NOJ 是一个开源的项目，如果有人对此项目感兴趣，可以联系 [ZsgsDesign](https://github.com/ZsgsDesign) 。
 
 * 南邮小程序开源代码：https://github.com/GreenPomelo/Undergraduate
 
@@ -169,14 +173,45 @@
 
   给大家提供闲置物品交流平台。
 
-### 四、手机 APP
+### 四、微信公众号
+
+* 南京邮电大学
+
+  官微。发布南京邮电大学权威信息咨询，展示南邮校园文化生活，服务广大师生与校友。
+
+* 南京邮电大学学生事务中心
+
+  各类学生事务的信息发布和信息收集。
+
+* 南邮信息办
+
+  南京邮电大学校园网网络故障官方服务号
+
+* 南邮物理实验中心
+
+  南京邮电大学物理实验教学中心。
+
+* 田老师私房菜
+
+  田友伟老师的个人微信号，主要介绍物理课以及个人的一些感想，让学生把物理课学好！
+
+### 五、手机 APP
 
 * M 南邮
 * M 南邮网页版：http://ydxy.njupt.edu.cn/university-ny/login.shtml
 
-### 五、其他
+### 六、其他
 
 * 翼支付可以给校园卡充值，很方便（当小程序进行维护的时候）**（可以使用信用卡）**。
+
+### 七、致谢
+
+本项目除了本人贡献以外，还要感谢校友提出宝贵的建议和意见，让此项目更加完善与专业，在此对他们表示感谢。
+
+* https://api.github.com/users/imguozr
+* https://api.github.com/users/gaoliang
+* https://api.github.com/users/UZIhuhuhu
+* https://api.github.com/users/ZsgsDesign
 
 ### License
 
