@@ -206,12 +206,13 @@
 
 ### 七、致谢
 
-本项目除了本人贡献以外，还要感谢校友提出宝贵的建议和意见，让此项目更加完善与专业，在此对他们表示感谢。
+本项目除了本人贡献以外，还要感谢校友们提出宝贵的建议和意见，让此项目更加完善与专业，在此对他们表示感谢。
 
-* https://api.github.com/users/imguozr
-* https://api.github.com/users/gaoliang
-* https://api.github.com/users/UZIhuhuhu
-* https://api.github.com/users/ZsgsDesign
+* https://avatars1.githubusercontent.com/u/30227124?v=4
+
+* https://avatars0.githubusercontent.com/u/18087875?v=4
+* https://avatars3.githubusercontent.com/u/31771183?v=4
+* https://avatars2.githubusercontent.com/u/19504567?v=4
 
 ### License
 
