@@ -14,7 +14,7 @@
   南京邮电大学官网。
 
 * 校园网登录验证平台（Dr.COM）：http://192.168.168.168/
-  
+
   校园网限制最多两台设备同时登录。学生账号价格为0.2元/小时，每周日至周四 `23点` 断网。教职工账号免费使用，全年不断网。
 
 * 邮箱：http://mail.njupt.edu.cn/
@@ -78,11 +78,11 @@
 * 校车时刻表：http://www.njupt.edu.cn/147/list.htm
 
   南邮校车的时刻表。校车乘坐2元一次，刷卡付费。
-  
+
   去往通达校区的校车时刻表可以在 http://www.nytdc.edu.cn/index.php?m=content&c=index&a=lists&catid=268 查到。（学生如欲乘坐需要联系老师开出证明）
 
 * 早锻炼查询系统：http://zccx.tyb.njupt.edu.cn/
-  
+
   查询跑操次数，也可以在 `小程序` 内查询。
 
 * 体质管理系统：http://180.209.98.44/sign/signin
@@ -96,6 +96,10 @@
 * 校园实景漫游系统： http://campus.njupt.edu.cn/
 
   校园 3D 导览。
+
+- 保卫处：http://bwc.njupt.edu.cn/
+
+  申请外场批条、即某些材料证明。
 
 ### 二、资源类网站
 
