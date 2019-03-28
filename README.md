@@ -1,5 +1,5 @@
-# Awesome-NJUPT-Resources
-## 南京邮电大学资源汇总
+# NJUPT-Yellow-Pages
+## 南京邮电大学黄页
 
 ### 写在前面
 
@@ -7,19 +7,19 @@
 
 我邮有丰富的网络资源供学生使用，但是经常在群里看到有很多同学询问：XXX网址是什么？心想为什么没有人普及一下我邮丰富的资源呢？于是我决定写这样一篇文章来总结一下我所知道的资源和相应的使用方法，如果有我没提到的或者错误的地方，欢迎提出 `Issue` 和 `Pull request` 。
 
-### 一、系统类网站
+### 一、官网类网站
 
 * 官网首页：http://www.njupt.edu.cn/
 
   南京邮电大学官网。
 
 * 校园网登录验证平台（Dr.COM）：http://192.168.168.168/
-  
+
   校园网限制最多两台设备同时登录。学生账号价格为0.2元/小时，每周日至周四 `23点` 断网。教职工账号免费使用，全年不断网。
 
 * 邮箱：http://mail.njupt.edu.cn/
 
-  账号是学号，例如：B16010101, 初始密码为 `b+身份证后8位` ，例如b00000000。使用南邮邮箱注册后，可以免费使用 `MATLAB` , `GitHub Pro` , `JetBrains` 等资源，国内各大平台针对学生邮箱认证用户也有不同程度的优惠活动。
+  账号是学号，例如：B16010101, 每一届的邮箱密码都是不一样的，具体的密码如果忘记了还是得问辅导员（感谢 [UZIhuhuhu](https://github.com/UZIhuhuhu) 同学提醒）。使用南邮邮箱注册后，可以免费使用 `MATLAB` , `GitHub Pro` , `JetBrains` 等资源，国内各大平台针对学生邮箱认证用户也有不同程度的优惠活动。
 
 * 图书馆：http://lib.njupt.edu.cn/
 
@@ -78,11 +78,11 @@
 * 校车时刻表：http://www.njupt.edu.cn/147/list.htm
 
   南邮校车的时刻表。校车乘坐2元一次，刷卡付费。
-  
+
   去往通达校区的校车时刻表可以在 http://www.nytdc.edu.cn/index.php?m=content&c=index&a=lists&catid=268 查到。（学生如欲乘坐需要联系老师开出证明）
 
 * 早锻炼查询系统：http://zccx.tyb.njupt.edu.cn/
-  
+
   查询跑操次数，也可以在 `小程序` 内查询。
 
 * 体质管理系统：http://180.209.98.44/sign/signin
@@ -97,7 +97,11 @@
 
   校园 3D 导览。
 
-### 二、软件类网站
+- 保卫处：http://bwc.njupt.edu.cn/
+
+  申请外场批条、及某些材料证明。
+
+### 二、资源类网站
 
 * 正版软件：http://software.njupt.edu.cn/
 
@@ -107,9 +111,13 @@
 
   提供很多**开源软件的镜像服务**。Linux 系统的安装镜像也可以在这里下载。
 
-* NOJ：http://acm.njupt.edu.cn/ （旧版） http://10.166.31.25/ （新版）
+* NOJ：http://acm.njupt.edu.cn/ （旧版） http://10.166.31.25/ （新版，注：经校队核心成员 [ZsgsDesign](https://github.com/ZsgsDesign) 提醒，新版还在开发中，不是很稳定，且需要权限，不推荐使用。）https://icpc.njupt.edu.cn （未来稳定的新版本训练系统会部署到这里）
 
   ACM 训练系统。
+
+* NOJ 开源代码：https://github.com/ZsgsDesign/NOJ
+
+  NOJ 是一个开源的项目，如果有人对此项目感兴趣，可以联系 [ZsgsDesign](https://github.com/ZsgsDesign) 。
 
 * 南邮小程序开源代码：https://github.com/GreenPomelo/Undergraduate
 
@@ -135,15 +143,74 @@
 
   Official repository of NJUPT CTF 2018
 
-* 校园卡管理平台：http://yktapp.njupt.edu.cn:8070
 
-  学校外包出去的校园卡管理平台，可以查询商户流水等信息，Bug 很多，请谨慎使用。有彩蛋，请自行探索。**如有侵权，本人不承担任何责任。**
+### 三、官方 QQ 群类
 
-### 三、手机 APP
+* 南邮小程序体验反馈群：330843906
+
+  使用小程序如有问题，可加入此群咨询相关技术人员。
+
+* 南邮ACM程序设计交流群：225811372（1群）855165211（2群）
+
+  欢迎外校同学加入交流，一起进步。
+
+* NJUPT CTF 2018官方群：884196088
+
+  欢迎外校同学加入交流，一起进步。
+
+* #南邮数学建模交流群#：879491213
+
+  南京邮电大学校内的数学建模的交流群。
+
+* 南邮2017高数竞赛：281500196
+
+  本科 2016 级高数竞赛群。
+
+* 南邮二手书交流平台：670693677
+
+  为南邮学校学生提供闲书交换交易平台。
+
+* 南邮跳蚤来吧：544687406
+
+  给大家提供闲置物品交流平台。
+
+### 四、微信公众号
+
+* 南京邮电大学
+
+  官微。发布南京邮电大学权威信息咨询，展示南邮校园文化生活，服务广大师生与校友。
+
+* 南京邮电大学学生事务中心
+
+  各类学生事务的信息发布和信息收集。
+
+* 南邮信息办
+
+  南京邮电大学校园网网络故障官方服务号
+
+* 南邮物理实验中心
+
+  南京邮电大学物理实验教学中心。
+
+* 田老师私房菜
+
+  田友伟老师的个人微信号，主要介绍物理课以及个人的一些感想，让学生把物理课学好！
+
+### 五、手机 APP
 
 * M 南邮
 * M 南邮网页版：http://ydxy.njupt.edu.cn/university-ny/login.shtml
 
-### 四、其他
+### 六、其他
 
 * 翼支付可以给校园卡充值，很方便（当小程序进行维护的时候）**（可以使用信用卡）**。
+
+### 七、致谢
+
+本项目除了本人贡献以外，还要感谢校友们提出宝贵的建议和意见，让此项目更加完善与专业，在此对他们表示感谢。
+
+<a href="https://github.com/imguozr"><img src="https://avatars1.githubusercontent.com/u/30227124?v=4" width="50px"></a> <a href="https://github.com/gaoliang"><img src="https://avatars0.githubusercontent.com/u/18087875?v=4" width="50px"></a> <a href="https://github.com/UZIhuhuhu"><img src="https://avatars3.githubusercontent.com/u/31771183?v=4" width="50px"></a> <a href="https://github.com/ZsgsDesign"><img src="https://avatars2.githubusercontent.com/u/19504567?v=4" width="50px"></a> <a href="https://github.com/Freedomisgood"><img src="https://avatars0.githubusercontent.com/u/31088082?v=4" width="50px"></a>
+
+### License
+
+[MIT](https://github.com/Wonz5130/NJUPT-Yellow-Pages/blob/master/LICENSE)
