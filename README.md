@@ -143,9 +143,6 @@
 
   Official repository of NJUPT CTF 2018
 
-* 校园卡管理平台：http://yktapp.njupt.edu.cn:8070
-
-  学校外包出去的校园卡管理平台，可以查询商户流水等信息，Bug 很多，请谨慎使用。有彩蛋，请自行探索。**如有侵权，本人不承担任何责任。**
 
 ### 三、官方 QQ 群类
 
