@@ -134,6 +134,7 @@
 * NJUPT-API：https://github.com/gaoliang/NJUPT-API
 
   南京邮电大学 (NJUPT) 教务系统、奥兰、校园卡、图书馆系统的非官方 Python API。在小程序停止服务时没准儿可以利用终端进行缴费、充值。
+  **注意**：由于上游 `一卡通APP` 接口下线，本项目校园卡模块暂时无法使用。
 
 * 南邮历年考试资料：https://github.com/NJUPTFreeExams
 
