@@ -1,7 +1,7 @@
 #  NJUPT-Yellow-Page
 ## 😋南京邮电大学黄页
 
-## ![](https://img.shields.io/github/stars/Wonz5130/NJUPT-Yellow-Page.svg) ![](https://img.shields.io/github/forks/Wonz5130/NJUPT-Yellow-Page.svg) ![](https://img.shields.io/github/issues/Wonz5130/NJUPT-Yellow-Page.svg) ![](https://img.shields.io/github/license/Wonz5130/NJUPT-Yellow-Page.svg)
+## [![](https://img.shields.io/github/stars/Wonz5130/NJUPT-Yellow-Page.svg)](https://github.com/Wonz5130/NJUPT-Yellow-Page/stargazers) [![](https://img.shields.io/github/forks/Wonz5130/NJUPT-Yellow-Page.svg)](https://github.com/Wonz5130/NJUPT-Yellow-Page/network/members) [![](https://img.shields.io/github/issues/Wonz5130/NJUPT-Yellow-Page.svg)](https://github.com/Wonz5130/NJUPT-Yellow-Page/issue) [![](https://img.shields.io/github/license/Wonz5130/NJUPT-Yellow-Page.svg)](https://github.com/Wonz5130/NJUPT-Yellow-Page/license)
 
 受友校 `USTC` [中国科大资源一览](https://github.com/zzh1996/USTC-Network-Resources) 启发，决定整理汇总一下我校 `南京邮电大学` 的资源。
 
