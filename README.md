@@ -117,21 +117,19 @@
 
   提供很多**开源软件的镜像服务**。Linux 系统的安装镜像也可以在这里下载。
 
-
-
 ### 🍭快乐学习
 
-* [南邮历年考试资料](https://github.com/NJUPTFreeExams)
+* [南邮历年考试资料](https://github.com/NJUPTFreeExams) -by [@NJUPTFreeExams](https://github.com/NJUPTFreeExams)
 
   目前已有 [计算机科学与技术](https://github.com/NJUPTFreeExams/NJUPT-CS-Free-Exams) 、[通信工程](https://github.com/NJUPTFreeExams/NJUPT-TE-Free-Exams) 、[自动化](https://github.com/NJUPTFreeExams/NJUPT_AUTO_StudyMaterials) 、[管理学院](https://github.com/NJUPTFreeExams/NJUPT-Managing-Free-Exams) 、[通识类](https://github.com/NJUPTFreeExams/NJUPT-General-Free-Exams) 等专业复习资料。欢迎同学们一起贡献一起完善。
 
-* [南京邮电大学本科毕业论文LaTeX模版](https://github.com/imguozr/NJUPThesis-Bachelor)
+* [南京邮电大学本科毕业论文LaTeX模版](https://github.com/imguozr/NJUPThesis-Bachelor) -by [@imguozr](https://github.com/imguozr/)
 
-* [dAmei 整理的数模精华资料](https://github.com/lmh760008522/MathematicalModeling)
+* [dAmei 整理的数模精华资料](https://github.com/lmh760008522/MathematicalModeling) -by [@dAmei](https://github.com/lmh760008522/)
 
-* [南京邮电大学竞赛科普清单](https://github.com/Wonz5130/Awesome-NJUPT-Contests)
+* [南京邮电大学竞赛科普清单](https://github.com/Wonz5130/Awesome-NJUPT-Contests) -by [@Wonz](https://github.com/Wonz5130/)
 
-* [大学生竞赛黄页](https://github.com/Freedomisgood/Competition-Yellow-Pages)
+* [大学生竞赛黄页](https://github.com/Freedomisgood/Competition-Yellow-Pages) -by [@Freedomisgood](https://github.com/Freedomisgood/)
 
 * [程序设计类课程作业平台](https://c.njupt.edu.cn/index/)
 
@@ -141,47 +139,50 @@
 
   ACM 训练系统。
 
-* [前 ACM 校队队长的 Blog](https://blog.csdn.net/tc_to_top/)
+
+### 📄博客推荐
+
+- [前 ACM 校队队长的 Blog](https://blog.csdn.net/tc_to_top/) -by [@Tcgogogo](https://blog.csdn.net/tc_to_top/)
 
   很多 ACM 题解。
 
-* [Wonz 的 Blog](https://blog.csdn.net/Wonz5130)
+- [Wonz 的 Blog](https://blog.csdn.net/Wonz5130) -by [@Wonz](https://blog.csdn.net/Wonz5130)
 
   自己平时的 `学习笔记` 、各种 `实验代码` 。
 
-* [张老板的 Blog](https://www.johnzhang.xyz/)
+- [张老板的 Blog](https://www.johnzhang.xyz/) -by [@johnzhang](https://www.johnzhang.xyz/)
 
   南邮还是...
 
 ### 👍开源项目
 
-* [NOJ 开源代码](https://github.com/ZsgsDesign/NOJ)
+* [NOJ 开源代码](https://github.com/ZsgsDesign/NOJ) -by [@johnzhang](https://github.com/ZsgsDesign/)
 
   NOJ 是一个开源的项目，如果有人对此项目感兴趣，可以联系 [ZsgsDesign](https://github.com/ZsgsDesign) 。
 
-* [南邮小程序开源代码](https://github.com/GreenPomelo/Undergraduate)
+* [南邮小程序开源代码](https://github.com/GreenPomelo/Undergraduate) -by [@GreenPomelo](https://github.com/GreenPomelo/)
 
   南京邮电大学小程序 Wepy 版本。
 
-* [NJUPT-API](https://github.com/gaoliang/NJUPT-API)
+* [NJUPT-API](https://github.com/gaoliang/NJUPT-API) -by [@gaoliang](https://github.com/gaoliang/)
 
   南京邮电大学 (NJUPT) 教务系统、奥兰、校园卡、图书馆系统的非官方 Python API。在小程序停止服务时没准儿可以利用终端进行缴费、充值。
 
-* [南邮 CTF 2018 平台](https://github.com/NJUPT-coding-gay/NCTF2018)
+* [南邮 CTF 2018 平台](https://github.com/NJUPT-coding-gay/NCTF2018) -by [@NJUPT-coding-gay](https://github.com/NJUPT-coding-gay/)
 
   Official repository of NJUPT CTF 2018
 
-* [青柚工作室主页](https://qingyou.njupt.edu.cn/)
+* [青柚工作室主页](https://qingyou.njupt.edu.cn/) -by [@GreenPomelo](https://github.com/GreenPomelo/)
 
   由一群热爱技术的南邮学生们创建。
 
-* [教学评测自动化脚本【需 Python 环境版本】](https://github.com/Freedomisgood/NJUPT_Autojudge)
+* [教学评测自动化脚本【Python 版本】](https://github.com/Freedomisgood/NJUPT_Autojudge) -by [@Freedomisgood](https://github.com/Freedomisgood/)
 
-* [教学评测自动化脚本【JS 版本】](https://github.com/chenkangyang/AutoEvaluationJS)
+* [教学评测自动化脚本【JS 版本】](https://github.com/chenkangyang/AutoEvaluationJS) -by [@chenkangyang](https://github.com/chenkangyang/)
 
 ### 📝作业项目参考
 
-* [dAmei 各种作业项目](https://github.com/lmh760008522/UniversityHomework)
+* [dAmei 各种作业项目](https://github.com/lmh760008522/UniversityHomework) -by [@dAmei](https://github.com/lmh760008522/)
 
 ### 👀官方 QQ 群
 
