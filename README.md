@@ -9,7 +9,7 @@
 
 受 [Awesome-SEU]() 项目启发，决定重构一下排版。【2019.5.25】
 
-😘项目分享 or 错误指正请尽情联系 `Wonz` （虽然不一定会及时更新）QQ：872666398   Email：wangzhou5130@gmail.com
+😘项目分享 or 错误指正请尽情联系 `Wonz` （虽然不一定会及时更新）QQ：872666398   Email：wonz.wang@outlook.com
 
 👏如果这些资源对你有帮助，或者你对南邮那些还没有发现的优秀项目感兴趣的话，请 star, watch, issue！
 
