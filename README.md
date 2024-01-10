@@ -103,19 +103,36 @@
 
   校园 3D 导览。
 
-- [保卫处](http://bwc.njupt.edu.cn/)
+* [保卫处](http://bwc.njupt.edu.cn/)
 
   申请外场批条、及某些材料证明。
+  
+* [信息办](http://xxb.njupt.edu.cn/main.htm)
+
+  学校信息化建设和管理，包括但不局限于网络运维，正版软件（微软和MATLAB），VPN，多媒体教室等
+
+* [人事处](http://rsc.njupt.edu.cn/585/list.htm)
+  
+  提供学校各个学院的教职、工职、博士后和人才引进信息，以及学校各个科室不定期的招聘信息
+  
+* [南京邮电大学就业创业网](http://njupt.91job.org.cn/)
+
+  提供了一些就业创业的指导，以及知名企业、校友企业的招聘信息
+
 
 ### 🎁资源网站
 
 * [正版软件](http://software.njupt.edu.cn/)
+  - 微软正版软件：Windows7旗舰版，Windows10的教育版，在内网使用KMS每半年激活一次
+  - Office 2010/2013/2016/2019 专业增强版（Windows）, 和 Office 2011/2016/2019 (MAC版本)
+  - MATLAB（Win/Mac/Linux）：目前购买了r2020，一般会自动续购升级 mathworks 发布的最新版本 Matlab，可以使用学校的链接下载，也可以在mathworks官网用学校教育邮箱登录，关联许可证下载官方最新版
 
-  连接内网后免费下载微软正版软件、MATLAB 2017、MATLAB 2018。
+  > 连接**内网**后使用上面给出的[链接](http://software.njupt.edu.cn/) 免费下载学校统一采购的**正版软件**
+  > 校外下载可以通过信息办的[「软件下载」](http://xxb.njupt.edu.cn/5257/list.htm)栏目下载
 
 * [开源软件镜像](http://mirrors.njupt.edu.cn/)
 
-  提供很多**开源软件的镜像服务**。Linux 系统的安装镜像也可以在这里下载。
+  提供很多**开源软件的镜像服务**。提供了主流Linux 系统发行版的镜像。[南邮镜像站小组](https://github.com/NJUPT-Mirrors-Group/mirror-web)是2014、2015届的几位学长于在校期间在学校信息办的支持下成立，基于清华大学开源的[镜像站设置代码](https://github.com/tuna/mirror-web)部署。
 
 ### 🍭快乐学习
 
